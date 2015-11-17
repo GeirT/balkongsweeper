@@ -1,8 +1,8 @@
 {
   "name": "balkongsweeper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Det klassiske spillet!",
-  "main": "index.js",
+  "main": "src/minesweeper.js",
   "scripts": {
     "test": "mochify test/*js",
     "autotest": "npm run test -- --watch"
