@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Det klassiske spillet!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geir Tønnessen",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "mochify": "^2.14.2"
+  }
+}
